@@ -13,6 +13,7 @@ public class Obstacle {
 		this.type = DEFAULT_TYPE;
 	}
 	// behavior
+	
 	public void update() {
 		
 	}
